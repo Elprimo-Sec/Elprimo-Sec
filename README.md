@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Islam El-Sharkawy (Elprimo) 👋
 
-<!--
-**Elprimo-Sec/Elprimo-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Aspiring Red Teamer | Cyber Security Student
+I am a 2nd-year secondary school student passionate about Offensive Security and Ethical Hacking. 
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🎓 **Education:** 2nd Secondary Grade.
+- 📜 **Certifications:** CCNA Certified.
+- 💻 **OS:** Linux Enthusiast.
+- 🎯 **Current Focus:** Leveling up on Hack The Box (HTB) & Mastering Red Teaming basics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills:
+- **Networking:** Routing & Switching (CCNA).
+- **Languages:** Python Basics, Bash Scripting.
+- **Web Security:** SQLi, XSS, File Upload.
+- **Tools:** Nmap, Gobuster, Metasploit, Burp Suite.
+
+### 📈 Goal:
+To complete my roadmap and transition into a professional Red Teamer.
